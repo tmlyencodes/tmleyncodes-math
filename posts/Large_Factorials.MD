@@ -16,7 +16,7 @@ For normal n values upto 15 we can get the factorials by the above formula howev
 
 To solve higher factorials we have two approaches: 
 <li> Stirling's Aprroximation Approach</li>
-<li> Ramanujan Approach</li>
+<li> Ramanujan's Approach</li>
 
 <br>
 
