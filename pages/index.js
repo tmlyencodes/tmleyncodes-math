@@ -9,7 +9,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Tmleyncodes Mathematics</title>
+        <title>Tmleyncodes</title>
       </Head>
 
       <div className='posts'>
